@@ -4,5 +4,5 @@ A derivation and update of Bullet NASM code by conversion to GASM (GNU Assembler
 Compiles with:
   as  barrel.s --32  -o barrel.com
 
-Doesn't run however with
+Doesn't run however with:
   dosbox ./barrel -exit
